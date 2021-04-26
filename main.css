@@ -3,6 +3,18 @@ body{
     background-color: rgb(197, 84, 84);
 }
 
+#about {
+    position: absolute;
+    right: 100px;
+    background-color: white;
+}
+
+#register {
+    position: absolute;
+    right: 12px;
+    background-color: white;
+}
+
 .border {
     border: solid thin black;
     background-color: white;
