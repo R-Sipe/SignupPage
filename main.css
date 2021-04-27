@@ -23,9 +23,9 @@ body{
     border: solid thin black;
     background-color: white;
     width: 350px;
-    margin-left: 50em;
+    margin-left: 49em;
     margin-top: 5em;
-    position: absolute;
+    position: fixed;
 }
 
 input {
